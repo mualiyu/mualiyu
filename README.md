@@ -4,28 +4,22 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/UsmanMukta55640?style=social)](https://twitter.com/UsmanMukta55640)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-muktar-usman-353bb8141-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muktar-usman-353bb8141/)](https://www.linkedin.com/in/muktar-usman-353bb8141/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/mualiyu?label=follow&style=social)](https://github.com/mualiyu)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  pronouns: "He",
+  code: [PHP, Javascript, Typescript, HTML, CSS, Ruby, Python, MicroPython, C#, C++],
+  tools: [Laravel, React, Vue.Js, Node, Styled-Components, Arduino, Docker, Kubernetes, ESP-IDF],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="60"> <em>As a developer, I thrive on solving complex problems and turning lines of code into <b>functional software solutions.</b></em>
 
 ---
