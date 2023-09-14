@@ -6,9 +6,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/UsmanMukta55640?style=social)](https://twitter.com/UsmanMukta55640)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-muktar-usman-353bb8141-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muktar-usman-353bb8141/)](https://www.linkedin.com/in/muktar-usman-353bb8141/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/mualiyu?label=follow&style=social)](https://github.com/mualiyu)
+[![Twitter: UsmanMukta55640](https://img.shields.io/twitter/follow/UsmanMukta55640?style=social)](https://twitter.com/UsmanMukta55640)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mukeey.online/)](https://mukeey.online/)
+[![GitHub UsmanMukta55640](https://img.shields.io/github/followers/mualiyu?label=follow&style=social)](https://github.com/mualiyu)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
